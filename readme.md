@@ -1,3 +1,2 @@
-new file
-new string
-yet another new string
+one more
+we make reset
